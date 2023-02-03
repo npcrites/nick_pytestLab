@@ -1,3 +1,4 @@
+![https://github.com/npcrites/nick_pytestLab/actions?query=workflow%3Atests](https://github.com/npcrites/nick_pytestLab/workflows/tests/badge.svg)
 # Pytest Lab
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
